@@ -12,7 +12,7 @@
 ### -1
 a, button, input, select, textarea 와 같은 태그가 탭을 못받도록 처리합니다.
 
-
+````
 <html lang="ko">
     <head>
         <meta charset="UTF-8">
@@ -31,8 +31,7 @@ a, button, input, select, textarea 와 같은 태그가 탭을 못받도록 처�
         <textarea cols="30" rows="5" tabindex="-1"></textarea>
     </body>
 </html>
+````
 
 
 
-
-ㅇ

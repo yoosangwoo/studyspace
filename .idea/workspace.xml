@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="테스트용 커밋">
-      <change afterPath="$PROJECT_DIR$/Html/Bootstrap/tooltip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/role.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/tabindex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="tabindex, role, tooltip 속성">
+      <change beforePath="$PROJECT_DIR$/Html/tabindex.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html/tabindex.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
       <workItem from="1650162267047" duration="62000" />
       <workItem from="1650162366033" duration="37000" />
       <workItem from="1650162422009" duration="2575000" />
-      <workItem from="1651467663630" duration="3685000" />
+      <workItem from="1651467663630" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650163738054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tabindex, role, tooltip 속성">
+      <created>1651472092994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651472092994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="테스트 커밋" />
     <MESSAGE value="테스트용 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="테스트용 커밋" />
+    <MESSAGE value="tabindex, role, tooltip 속성" />
+    <option name="LAST_COMMIT_MESSAGE" value="tabindex, role, tooltip 속성" />
   </component>
 </project>
