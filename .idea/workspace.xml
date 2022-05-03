@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="tabindex, role, tooltip 속성">
-      <change afterPath="$PROJECT_DIR$/Html/responsiveWebDesign.md" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="반응형 웹 디자인 정의 속성">
+      <change afterPath="$PROJECT_DIR$/Html/cssUnit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/Bootstrap/tooltip.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/tooltip.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,9 @@
     <option name="projectConfigVersion" value="4" />
   </component>
   <component name="ProjectId" id="27uFrNDQeS57pJ01OyfmzOSsZdF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -69,7 +71,7 @@
       <workItem from="1650162422009" duration="2575000" />
       <workItem from="1651467663630" duration="6064000" />
       <workItem from="1651486383770" duration="81000" />
-      <workItem from="1651555789573" duration="3064000" />
+      <workItem from="1651555789573" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -99,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651472406723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="반응형 웹 디자인 정의 속성">
+      <created>1651563492400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651563492400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="테스트 커밋" />
     <MESSAGE value="테스트용 커밋" />
     <MESSAGE value="tabindex, role, tooltip 속성" />
-    <option name="LAST_COMMIT_MESSAGE" value="tabindex, role, tooltip 속성" />
+    <MESSAGE value="반응형 웹 디자인 정의 속성" />
+    <option name="LAST_COMMIT_MESSAGE" value="반응형 웹 디자인 정의 속성" />
   </component>
 </project>
