@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5">
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/aboutTextTag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/basicTag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/list&amp;table.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/Image&amp;Multimedia.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +78,7 @@
       <workItem from="1652241895433" duration="2144000" />
       <workItem from="1652841405593" duration="599000" />
       <workItem from="1652882179676" duration="3627000" />
-      <workItem from="1653221416755" duration="1276000" />
+      <workItem from="1653221416755" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652230964610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="프론트앤드 HTML5">
+      <created>1653222961719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653222961719</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
