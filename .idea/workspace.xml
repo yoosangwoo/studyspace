@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5&#10;Image&amp;Multimedia">
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/Forms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5&#10;Forms">
+      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/structure.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <workItem from="1652241895433" duration="2144000" />
       <workItem from="1652841405593" duration="599000" />
       <workItem from="1652882179676" duration="3627000" />
-      <workItem from="1653221416755" duration="6189000" />
+      <workItem from="1653221416755" duration="6750000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653225095751</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="프론트앤드 HTML5&#10;Forms">
+      <created>1653231166902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653231166903</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +174,7 @@
     <MESSAGE value="반응형 웹 디자인 정의 속성" />
     <MESSAGE value="프론트앤드 HTML5" />
     <MESSAGE value="프론트앤드 HTML5&#10;Image&amp;Multimedia" />
-    <option name="LAST_COMMIT_MESSAGE" value="프론트앤드 HTML5&#10;Image&amp;Multimedia" />
+    <MESSAGE value="프론트앤드 HTML5&#10;Forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="프론트앤드 HTML5&#10;Forms" />
   </component>
 </project>
