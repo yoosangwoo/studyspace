@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="반응형 웹 디자인 정의 속성">
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/SemanticWeb.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/frontEndDeveloper.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/html5BasicGrammer.md" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5">
+      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/aboutTextTag.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/basicTag.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/list&amp;table.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/cssUnit.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/cssUnit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/responsiveWebDesign.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/responsiveWebDesign.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/role.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/role.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/tabindex.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/tabindex.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,12 @@
       <workItem from="1651486383770" duration="81000" />
       <workItem from="1651555789573" duration="4867000" />
       <workItem from="1651626407692" duration="1253000" />
-      <workItem from="1652192933278" duration="3888000" />
+      <workItem from="1652192933278" duration="3973000" />
+      <workItem from="1652235979904" duration="596000" />
+      <workItem from="1652241895433" duration="2144000" />
+      <workItem from="1652841405593" duration="599000" />
+      <workItem from="1652882179676" duration="3627000" />
+      <workItem from="1653221416755" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651564376320</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="프론트앤드 HTML5">
+      <created>1652230964610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652230964610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,7 @@
     <MESSAGE value="테스트용 커밋" />
     <MESSAGE value="tabindex, role, tooltip 속성" />
     <MESSAGE value="반응형 웹 디자인 정의 속성" />
-    <option name="LAST_COMMIT_MESSAGE" value="반응형 웹 디자인 정의 속성" />
+    <MESSAGE value="프론트앤드 HTML5" />
+    <option name="LAST_COMMIT_MESSAGE" value="프론트앤드 HTML5" />
   </component>
 </project>
