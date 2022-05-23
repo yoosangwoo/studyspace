@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5&#10;Forms">
-      <change afterPath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/structure.md" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="프론트앤드 HTML5&#10;structure">
+      <change afterPath="$PROJECT_DIR$/Html5/CSS3/CSS3-Selector.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html5/CSS3/CSS3-Syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/Forms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/Forms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/Image&amp;Multimedia.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/Image&amp;Multimedia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/SemanticWeb.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/SemanticWeb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/aboutTextTag.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/aboutTextTag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/basicTag.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/basicTag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/frontEndDeveloper.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/frontEndDeveloper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/html5BasicGrammer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/html5BasicGrammer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/list&amp;table.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/list&amp;table.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/프런트엔드 개발자 학습 방향/structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/HTML5/structure.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +88,8 @@
       <workItem from="1652241895433" duration="2144000" />
       <workItem from="1652841405593" duration="599000" />
       <workItem from="1652882179676" duration="3627000" />
-      <workItem from="1653221416755" duration="6750000" />
+      <workItem from="1653221416755" duration="9643000" />
+      <workItem from="1653312825668" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -149,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653231166903</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="프론트앤드 HTML5&#10;structure">
+      <created>1653231570786</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653231570786</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +194,7 @@
     <MESSAGE value="프론트앤드 HTML5" />
     <MESSAGE value="프론트앤드 HTML5&#10;Image&amp;Multimedia" />
     <MESSAGE value="프론트앤드 HTML5&#10;Forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="프론트앤드 HTML5&#10;Forms" />
+    <MESSAGE value="프론트앤드 HTML5&#10;structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="프론트앤드 HTML5&#10;structure" />
   </component>
 </project>
