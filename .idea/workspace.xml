@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="CSS3">
-      <change afterPath="$PROJECT_DIR$/Html5/CSS3/CSS3-Selectors.md" afterDir="false" />
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="CSS3 Selector">
+      <change afterPath="$PROJECT_DIR$/Html5/CSS3/units.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html5/CSS3/CSS3-Selector.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/CSS3/CSS3-Selectors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/CSS3/selectors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html5/CSS3/CSS3-Syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/CSS3/syntax.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <workItem from="1652841405593" duration="599000" />
       <workItem from="1652882179676" duration="3627000" />
       <workItem from="1653221416755" duration="9643000" />
-      <workItem from="1653312825668" duration="6050000" />
+      <workItem from="1653312825668" duration="8023000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653313303658</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="CSS3 Selector">
+      <created>1653319207249</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653319207250</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="프론트앤드 HTML5&#10;structure" />
     <MESSAGE value="HTML5" />
     <MESSAGE value="CSS3" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS3" />
+    <MESSAGE value="CSS3 Selector" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS3 Selector" />
   </component>
 </project>
