@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="CSS3 Selector">
-      <change afterPath="$PROJECT_DIR$/Html5/CSS3/units.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html5/CSS3/CSS3-Selectors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/CSS3/selectors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html5/CSS3/CSS3-Syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/Html5/CSS3/syntax.md" afterDir="false" />
-    </list>
+    <list default="true" id="b474ee2f-51da-4654-a09e-95b57f7f5c0e" name="Changes" comment="CSS3 Units &#10;CSS 프로퍼티 값의 단위" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +78,7 @@
       <workItem from="1652841405593" duration="599000" />
       <workItem from="1652882179676" duration="3627000" />
       <workItem from="1653221416755" duration="9643000" />
-      <workItem from="1653312825668" duration="8023000" />
+      <workItem from="1653312825668" duration="8356000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 커밋">
       <created>1650162755596</created>
@@ -183,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653319207250</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="CSS3 Units &#10;CSS 프로퍼티 값의 단위">
+      <created>1653322897901</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653322897902</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +215,7 @@
     <MESSAGE value="HTML5" />
     <MESSAGE value="CSS3" />
     <MESSAGE value="CSS3 Selector" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS3 Selector" />
+    <MESSAGE value="CSS3 Units &#10;CSS 프로퍼티 값의 단위" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS3 Units &#10;CSS 프로퍼티 값의 단위" />
   </component>
 </project>
